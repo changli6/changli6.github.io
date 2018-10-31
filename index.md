@@ -7,4 +7,3 @@ layout: home
 
 # Hello Git #
 # Hello World #
-Hello ABC
