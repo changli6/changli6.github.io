@@ -10,7 +10,7 @@ title:            Changli Website
 tagline:          'A Jekyll theme'
 description:      'A brazen two-column.'
 url:              http://changli6.github.io
-
+baseurl:     '/'
 
 author:
   name:           'Changli Liu'
