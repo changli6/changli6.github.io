@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Introducing Database
+title: Database Step by Step
 ---
-Below are an introduction of this JekyII theme Hyde.
+This blog used JekyII theme Hyde.
 
 Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. It's based on [Poole](http://getpoole.com), the Jekyll butler.
 
@@ -24,12 +24,6 @@ In addition to the features of Poole, Hyde adds the following:
 * Sidebar includes support for textual modules and a dynamically generated navigation with active link support
 * Two orientations for content and sidebar, default (left sidebar) and [reverse](https://github.com/poole/lanyon#reverse-layout) (right sidebar), available via `<body>` classes
 * [Eight optional color schemes](https://github.com/poole/hyde#themes), available via `<body>` classes
-
-[Head to the readme](https://github.com/poole/hyde#readme) to learn more.
-
-### Browser support
-
-Hyde is by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), and Firefox, it is only compatible with Internet Explorer 9 and above.
 
 ### Download
 
