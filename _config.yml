@@ -1,5 +1,5 @@
 # Dependencies
-markdown:         redcarpet
+# markdown:         redcarpet
 highlighter:     rouge
 
 # Permalinks
@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            Changli Website
 #tagline:          
-description:      'Atombase Basic.'
+description:      'Atomsbase Basic.'
 url:              http://changli6.github.io
 baseurl:     '/'
 
@@ -19,7 +19,7 @@ author:
 paginate:         5
 
 # Custom vars
-version:          2.1.0
+#version:          2.1.0
 
 github:
   repo:           https://github.com/changli6
