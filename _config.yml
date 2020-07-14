@@ -10,11 +10,13 @@ title:            Changli Website
 #tagline:          
 description:      'Atomsbase Basic.'
 url:              http://changli6.github.io
-baseurl:     '/'
+baseurl:     ''
 
 author:
   name:           'Changli Liu'
   url:            https://twitter.com
+
+plugins:  [jekyll-paginate]
 
 paginate:         5
 
