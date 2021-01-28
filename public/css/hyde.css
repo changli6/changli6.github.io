@@ -31,9 +31,16 @@
  * Update the foundational and global aspects of the page.
  */
 
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  src: url(https://fonts.gstatic.com/s/robotoslab/v12/BngMUXZYTXPIvIBgJJSb6ufA5qWr4xCCQ_k.woff2) format('woff2');
+}
+
+/* Use poole.css */
 html {
   /* font-family: Helvetica, Arial, sans-serif,"PT Sans" ; */
-  font-family: roboto-slab, sans-serif, Recoleta; 
+  font-family: Monaco,'Roboto Slab'，sans-serif, Recoleta; 
 }
 @media (min-width: 48em) {
   html {

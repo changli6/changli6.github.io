@@ -5,7 +5,6 @@ title: About
 
 <p class="message">
   This website included data related boring stuff and mediore thoughts.<br/>
-  Just please enjoy!
 </p>
 
 Thanks the author. It's made by [@mdo](https://twitter.com/mdo).

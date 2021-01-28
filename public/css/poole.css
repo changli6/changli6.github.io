@@ -41,6 +41,18 @@
           box-sizing: border-box;
 }
 
+@font-face {
+  font-family: asdfboto;
+  font-style: light;
+  src: url('../fonts/asdfboto.ttf');
+}
+
+@font-face {
+  font-family: roboto-slab-regular;
+  font-style: normal;
+  src: url('../fonts/roboto-slab-regular.ttf');
+}
+
 html,
 body {
   margin: 0;
@@ -48,7 +60,7 @@ body {
 }
 
 html {
-  font-family: Arial, Helvetica, "Helvetica Neue",sans-serif; 
+  font-family: asdfboto, roboto-slab-regular, Arial, Helvetica, "Helvetica Neue",sans-serif; 
   font-size: 12px;
   line-height: 1.5;
 }
@@ -90,6 +102,7 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   font-size: 2rem;
 }
+
 h2 {
   margin-top: 1rem;
   font-size: 1.5rem;
