@@ -76,6 +76,12 @@
   src: url('../fonts/opensans-regular-webfont.ttf');
 }
 
+@font-face {
+  font-family: arimo;
+  font-style: normal;
+  src: url('../fonts/arimo.ttf');
+}
+
 html,
 body {
   margin: 0;
@@ -83,7 +89,7 @@ body {
 }
 
 html {
-  font-family: opensans-ragular, roboto-slab-regular, Arial, Helvetica,sans-serif;
+  font-family: Avenir,Open Sans, roboto-slab-regular, Arial, Helvetica,sans-serif;
   font-size: 12px;
   line-height: 1.5;
 }
