@@ -7,6 +7,6 @@ title: About
   This website included data related boring stuff and mediore thoughts.<br/>
 </p>
 
-Thanks the author. It's made by [@mdo](https://twitter.com/mdo).
+The scheme was made by [@mdo](https://twitter.com/mdo).
 
 Thanks for reading!
