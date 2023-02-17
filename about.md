@@ -10,3 +10,5 @@ title: About
 The scheme was made by [@mdo](https://twitter.com/mdo).
 
 Thanks for reading!
+
+Contact me via changli6 at foxmail.
