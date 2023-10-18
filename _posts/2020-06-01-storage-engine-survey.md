@@ -5,7 +5,7 @@ title: PostgreSQL Storage Engine Survey
 ## PostgreSQL and RocksDB Overview
 System Properties Comparison PostgreSQL vs. RocksDB
 
-|           Name          |                          *PostgreSQL*                         |                                    *RocksDB*                                     |
+|           Name          |                          PostgreSQL                         |                                    RocksDB                                     |
 |-------------------------|---------------------------------------------------------------|----------------------------------------------------------------------------------|
 | Description             | Widely used open source RDBMS                                 | Embeddable persistent key-value store optimized for fast storage (flash and RAM) |
 | Primary database model  | Relational DBMS                                               | Key-value store                                                                  |

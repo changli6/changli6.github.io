@@ -40,7 +40,7 @@
 /* Use poole.css */
 html {
   /* font-family: Helvetica, Arial, sans-serif,"PT Sans" ; */
-  font-family: Monaco,'Roboto Slab'，sans-serif, Recoleta; 
+  font-family: -apple-system, Monaco,'Roboto Slab'，sans-serif, Recoleta; 
 }
 @media (min-width: 48em) {
   html {
