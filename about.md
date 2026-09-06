@@ -4,7 +4,7 @@ title: About
 ---
 
 <p class="message">
-  This website included data related "boring" stuffs and mediocre thoughts.<br/>
+  This website included DATA related "boring" stuff and mediocre thoughts.<br/>
 </p>
 
 Thanks for reading!
