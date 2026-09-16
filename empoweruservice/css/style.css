@@ -1,5 +1,5 @@
 /* ============================================
-   EmpowerUService - Australian Green & Gold Theme
+   Empower U Service - Australian Green & Gold Theme
    Inspired by the Socceroos (Australia National Team)
    Primary:   #00843D (Australian Green)
    Secondary: #FFD200 / #F5A623 (Gold / Amber)
@@ -100,7 +100,7 @@ img { max-width: 100%; display: block; }
     padding: 5rem 0;
     text-align: center;
     overflow: hidden;
-    background-image: url("../assets/images/hero.png");
+    background-image: url("../assets/images/background1.jpg");
     background-size: cover;
     background-position: center 15%;
     background-repeat: no-repeat;

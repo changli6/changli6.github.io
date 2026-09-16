@@ -1,4 +1,4 @@
-# EmpowerUService — Static Website
+# Empower U Service — Static Website
 
 A clean, fully static NDIS support-service website (no build step, no backend required).
 
@@ -9,9 +9,9 @@ A clean, fully static NDIS support-service website (no build step, no backend re
 - Contact form wired to **Formspree** (`contact.html`) — no server needed
 
 ## Brand & Content
-- **Name**: EmpowerUService (logo: `Empower` green + `UService` gold)
+- **Name**: Empower U Service (logo: `Empower` green + `UService` gold)
 - **ABN**: 72 674 884 470 · **ACN**: 674 884 470
-- **Email**: accounts@empoweruservice.com
+- **Email**: hello@empoweruservice.com
 - **Colours**: Australian green `#00843D` + gold `#FFD200` (Socceroos-inspired), defined as CSS variables in `:root` — change in one place to re-skin the whole site
 - **Hero**: `assets/images/hero.jpg` (aged-care scene). Swap in your own 1920×1080 image if desired
 
